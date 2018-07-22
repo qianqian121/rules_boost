@@ -1,3 +1,6 @@
+$cd test
+$bazel build //...
+
 # `rules_boost` -- Bazel build rules for Boost
 
 To use these rules, add the following to your `WORKSPACE` file:
